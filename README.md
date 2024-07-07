@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=#000000&height=400&section=header&text=DevGon&fontSize=32" />
+## Hi there I'm DevGon 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=#000000&height=400&section=footer&text=DevGon&fontSize=16" />
 <!--
 **iDevGon/iDevGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
