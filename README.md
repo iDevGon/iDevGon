@@ -2,6 +2,7 @@
 ## Hi there I'm DevGon 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDevGon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDevGon)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=DevGon&fontSize=16&fontColor=ffffff" />
 <!--
 **iDevGon/iDevGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
