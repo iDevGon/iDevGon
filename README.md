@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=header&text=DevGon&fontSize=32&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=eaeaea&height=100&section=header&text=DevGon&fontSize=32&fontColor=555555&fontAlign=80&fontAlignY=80" />
 
 ## Hi there I'm DevGon 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDevGon)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDevGon)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDevGon&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDevGon&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=DevGon&fontSize=16&fontColor=ffffff" />
 
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
