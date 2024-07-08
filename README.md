@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=eaeaea&height=100&section=header&text=DevGon's&fontSize=32&fontColor=000000&fontAlign=80&fontAlignY=70&desc=Github%20Profile&descAlign=84&descAlignY=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=eaeaea&height=100&section=header&text=DevGon's&fontSize=32&fontColor=ffffff&fontAlign=80&fontAlignY=70&desc=Github%20Profile&descAlign=84&descAlignY=90&stroke=000000&strokeWidth=2" />
 
 # Hi there I'm DevGon 👋🏻
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDevGon&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)  
