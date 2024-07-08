@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=eaeaea&height=100&section=header&text=DevGon&fontSize=32&fontColor=555555&fontAlign=80&fontAlignY=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=eaeaea&height=100&section=header&text=DevGon's&fontSize=32&fontColor=000000&fontAlign=80&fontAlignY=70&desc=Github%20Profile&descAlign=84&descAlignY=90" />
 
-## Hi there I'm DevGon 👋
+# Hi there I'm DevGon 👋🏻
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDevGon&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDevGon&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer&text=DevGon&fontSize=16&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer&text=2024%20DevGon%20all%20rights%20reserved&fontSize=16&fontColor=ffffff&section=footer&fontAlign=15&fontAlignY=50" />
 
+### My Skills are...
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
