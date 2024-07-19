@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=eaeaea&height=100&section=header&text=DevGon's&fontSize=32&fontColor=000000&fontAlign=80&fontAlignY=70&desc=Github%20Profile&descAlign=84&descAlignY=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=eaeaea&height=100&section=header&text=devGon's&fontSize=32&fontColor=000000&fontAlign=80&fontAlignY=70&desc=Github%20Profile&descAlign=84&descAlignY=90" />
 
-# Hi there I'm DevGon 👋🏻
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iDevGon&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iDevGon&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer&text=2024%20DevGon%20all%20rights%20reserved&fontSize=16&fontColor=ffffff&section=footer&fontAlign=15&fontAlignY=50" />
+# Hi there I'm devGon 👋🏻
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idevGon&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idevGon&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer&text=2024%20devGon%20all%20rights%20reserved&fontSize=16&fontColor=ffffff&section=footer&fontAlign=15&fontAlignY=50" />
 
 ### My Skills are...
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -16,7 +16,7 @@
 
 
 <!--
-**iDevGon/iDevGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**idevGon/idevGon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
