@@ -1,6 +1,7 @@
 # devGon
 
-Frontend engineer building playful, polished web experiences.
+**🇰🇷** 사용자에게 닿는 제품 흐름과 개발자 경험을 함께 다듬는 프론트엔드 개발자입니다.  
+**🇺🇸** Frontend engineer building playful, polished web experiences.
 
 ## About
 
