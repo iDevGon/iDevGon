@@ -4,22 +4,26 @@ Frontend engineer building playful, polished web experiences.
 
 ## About
 
-**KR**  
-작은 아이디어를 실제로 사용할 수 있는 제품으로 만드는 것을 좋아합니다. 명확한 규칙, 짧은 흐름, 그리고 약간의 개성이 있는 인터페이스에 관심이 많습니다.
+**🇰🇷**  
+React, TypeScript, Vue 기반으로 커머스 서비스와 사내 개발 도구를 만들어온 프론트엔드 개발자입니다.
+반복되는 일을 단순화하고 자동화하는 것을 좋아하고, 사용자의 행동과 제품 흐름을 관찰해 성능, 전환, 개발자 경험을 개선하는 일에 관심이 많습니다.
+최근에는 AI를 적극적으로 개발 과정에 연결하며, 구현의 HOW보다 제품과 문제의 WHY에 더 집중하는 방식을 실험하고 있습니다.
 
-**EN**  
-I enjoy turning small ideas into usable products, especially interfaces with clear rules, tight interactions, and a bit of personality.
+**🇺🇸**  
+I'm a frontend engineer who has built commerce products and internal developer tools with React, TypeScript, and Vue.
+I like simplifying repetitive work, automating tedious workflows, and improving performance, conversion, and developer experience by studying how users move through products.
+Recently, I've been exploring AI-assisted development so I can spend less energy on implementation mechanics and more on the product intent behind the work.
 
 ## Focus
 
-**KR**
+**🇰🇷**
 
 - React / TypeScript 기반 프론트엔드 개발
 - Game-like UI, 퍼즐, 인터랙션 디자인
 - Cloudflare Pages, Workers, D1 기반 서비스 구현
 - 사용자가 바로 이해할 수 있는 제품 흐름 만들기
 
-**EN**
+**🇺🇸**
 
 - Frontend development with React and TypeScript
 - Game-like UI, puzzles, and interaction design
