@@ -1,7 +1,7 @@
 # devGon
 
 **🇰🇷** 사용자에게 닿는 제품 흐름과 개발자 경험을 함께 다듬는 프론트엔드 개발자입니다.  
-**🇺🇸** Frontend engineer building playful, polished web experiences.
+**🇺🇸** Frontend engineer refining user-facing product flows and developer experience together.
 
 ## About
 
@@ -12,8 +12,8 @@ React, TypeScript, Vue 기반으로 커머스 서비스와 사내 개발 도구�
 
 **🇺🇸**  
 I'm a frontend engineer who has built commerce products and internal developer tools with React, TypeScript, and Vue.
-I like simplifying repetitive work, automating tedious workflows, and improving performance, conversion, and developer experience by studying how users move through products.
-Recently, I've been exploring AI-assisted development so I can spend less energy on implementation mechanics and more on the product intent behind the work.
+I like simplifying and automating repetitive work, and I'm interested in improving performance, conversion, and developer experience by observing user behavior and product flows.
+Recently, I've been actively connecting AI to my development process and experimenting with focusing more on the WHY of products and problems than the HOW of implementation.
 
 ## Focus
 
