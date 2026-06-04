@@ -6,14 +6,14 @@
 ## About
 
 **🇰🇷**  
-React, TypeScript, Vue 기반으로 커머스 서비스와 사내 개발 도구를 만들어온 프론트엔드 개발자입니다.
-반복되는 일을 단순화하고 자동화하는 것을 좋아하고, 사용자의 행동과 제품 흐름을 관찰해 성능, 전환, 개발자 경험을 개선하는 일에 관심이 많습니다.
-최근에는 AI를 적극적으로 개발 과정에 연결하며, 구현의 HOW보다 제품과 문제의 WHY에 더 집중하는 방식을 실험하고 있습니다.
+안녕하세요! 사용자 경험을 고민하고, 깔끔한 코드를 추구하는 프론트엔드 개발자 DevGon입니다.
+React, TypeScript, Vue를 기반으로 웹 서비스를 만들고 개선해왔습니다.
+사용자가 자연스럽게 이해할 수 있는 화면과 오래 유지보수할 수 있는 코드를 함께 고민합니다.
 
 **🇺🇸**  
-I'm a frontend engineer who has built commerce products and internal developer tools with React, TypeScript, and Vue.
-I like simplifying and automating repetitive work, and I'm interested in improving performance, conversion, and developer experience by observing user behavior and product flows.
-Recently, I've been actively connecting AI to my development process and experimenting with focusing more on the WHY of products and problems than the HOW of implementation.
+Hi! I'm DevGon, a frontend engineer who thinks about user experience and pursues clean code.
+I've built and improved web services with React, TypeScript, and Vue.
+I care about interfaces that users can understand naturally and codebases that can be maintained over time.
 
 ## Focus
 
